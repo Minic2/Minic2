@@ -11,7 +11,7 @@
 
 </div>
 <p>Soy un autodidacta, estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
-<h2>Estoy enfocandome en fortalecer mis conocimientos en</h2> 
+<h2>Estoy enfocándome en fortalecer mis conocimientos en</h2> 
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
