@@ -7,7 +7,7 @@
 
 </div>
 <p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
-<h2>Estoy enfocando en fortalecer mis conocimientos en</h2> 
+<h2>Estoy enfocandome en fortalecer mis conocimientos en</h2> 
 <ul>
 
 <li><img width = 18 src="https://image.flaticon.com/icons/png/512/226/226777.png"> Java 
