@@ -9,7 +9,7 @@
   
 
 </div>
-<p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
+<p>Soy un autodidacta, estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
 <h2>Estoy enfocandome en fortalecer mis conocimientos en</h2> 
 <ul>
 
