@@ -1,11 +1,8 @@
 <div align="center">
 
-[![][logo-url]][repo-url]  
-</div>
+[![][logo-url]]
  
-
-[logo-url]: 
-[repo-url]: 
-[banner-url]: 
+</div>
+[logo-url]: https://github.com/Minic2/Minic2/blob/main/img/nathan-dumlao-6VhPY27jdps-unsplash.jpg
 
 
