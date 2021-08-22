@@ -6,7 +6,7 @@
   
 
 </div>
-<p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo de desarrollo de Software</p>
+<p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
 <ul>
 <h2>Estoy enfocando en fortalecer mis conocimientos en</h2> 
 <li> Java 
