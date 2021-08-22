@@ -1,4 +1,7 @@
-<h1 align="center"> HI I'm Elias</h1>
+<h1 style="display: inline-block">HI I'm Elias</h1>
+<img style="display: inline-block" width = 18 src="https://image.flaticon.com/icons/png/512/2165/2165797.png">
+
+
 <div align="center">
  
 [![][logo-url]][repo-url]  
@@ -14,6 +17,9 @@
 <li><img width = 18 src="https://image.flaticon.com/icons/png/512/136/136530.png"> Javascript
 <li><img width = 18 src="https://image.flaticon.com/icons/png/512/919/919825.png"> Nodejs
 <li><img width = 18 src="https://image.flaticon.com/icons/png/512/919/919851.png"> ReactJS
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/919/919836.png"> MySQL
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/892/892917.png">MongoDB
+
 </ul>
  
 
