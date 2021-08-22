@@ -7,12 +7,13 @@
 
 </div>
 <p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo del Desarrollo de Software</p>
-<ul>
 <h2>Estoy enfocando en fortalecer mis conocimientos en</h2> 
-<li> Java 
-<li> Javascript
-<li> Nodejs
-<li> ReactJS
+<ul>
+
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/226/226777.png"> Java 
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/136/136530.png"> Javascript
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/919/919825.png"> Nodejs
+<li><img width = 18 src="https://image.flaticon.com/icons/png/512/919/919851.png"> ReactJS
 </ul>
  
 
