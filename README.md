@@ -7,7 +7,13 @@
 
 </div>
 <p>Soy un autodidacta estoy constantemente aprendiendo sobre el mundo de desarrollo de Software</p>
-
+<ul>
+<h2>Estoy enfocando en fortalecer mis conocimientos en</h2> 
+<li> Java 
+<li> Javascript
+<li> Nodejs
+<li> ReactJS
+</ul>
  
 
 
