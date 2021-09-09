@@ -64,5 +64,5 @@
 
 [logo-url]:https://raw.githubusercontent.com/Minic2/Minic2/main/img/Untitled.png
 [repo-url]: https://github.com/Minic2
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minic2&layout=compact)](https://github.com/Minic2/github-readme-stats)
+
 
